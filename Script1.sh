@@ -3,5 +3,4 @@ echo "We are from batch-25 and learning git/gihub"
 echo "We are learning Branching"
 echo "I am learning Git"
 echo "Hello How are YOu"
-echo "I am learning merge conflict"
-echo "i am from batch-31"
+
